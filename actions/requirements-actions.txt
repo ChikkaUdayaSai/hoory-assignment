@@ -1,0 +1,4 @@
+recognizers-text-suite==1.0.2a2
+colorlog==6.5.0
+python-dotenv
+dateparser==1.1.0
